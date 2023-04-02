@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b7709c6257cf1f24db769a82f31b4d27
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Introduction.unity
+    guid: 1339aeda1552d344fbbbaaf94a13dda7
+  - enabled: 1
+    path: Assets/Scenes/Level2- Maze.unity
+    guid: 6d50ea44f6540134ca30e022e760fbf6
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Music.unity
+    guid: 7bdae86ed96054d4a81bbce82b50fbef
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Runner.unity
+    guid: be3d1869eb367b74dbbd10728315d434
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8328dd3d1daed7249a0b1b02762af1fa
+  - enabled: 1
+    path: Assets/Scenes/Level 3- Reset.unity
+    guid: ee6680a135f427b4b8646beae5a710ff
+  - enabled: 1
+    path: Assets/Scenes/Extra-MusicLevel.unity
+    guid: ef6572337cd32fc4e80e22d8bde9e162
+  m_configObjects: {}
